@@ -10,3 +10,6 @@ This instrument has allowed me to play with lots of different ways of creating t
 It's designed for maximal reuse within other patches as projects. You'll want to include it in another patch that provides the r value and the initial x value. It has its own noteout, or it can feed midi and/or raw x values out.
 
 NOTE: somewhere in a Max version change, the layout of this patch's Patching mode got really messed up. I'll fix that soon.
+
+
+<img width="957" alt="Screen Shot 2023-06-12 at 7 23 39 PM" src="https://github.com/donundeen/FractalStreamPlayer/assets/606125/689fb23b-16ce-4124-a973-8932bb6d8ab0">
